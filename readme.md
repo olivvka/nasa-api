@@ -1,4 +1,4 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+ 
 
 # NASA API Challenge
 
@@ -18,6 +18,5 @@
 Wykorzystaj [API do tego potrzebne](https://api.nasa.gov/api.html#MarsPhotos). Galeria na starcie powinna pokazywać 6 zdjęć. Pod galerią umieść przycisk __Load more__. Po naciśnięciu powinno się pojawić 6 zdjęć więcej.
  
  
-# nasa-api
- 
-live preview https://nasa-api-olivvka.netlify.com/
+# live preview 
+https://nasa-api-olivvka.netlify.com/
