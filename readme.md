@@ -16,12 +16,8 @@
 
 6. Druga sekcja posiada galerię, który wyświetla zdjęcia Marsa.
 Wykorzystaj [API do tego potrzebne](https://api.nasa.gov/api.html#MarsPhotos). Galeria na starcie powinna pokazywać 6 zdjęć. Pod galerią umieść przycisk __Load more__. Po naciśnięciu powinno się pojawić 6 zdjęć więcej.
-
-__Zadania dodatkowe__
-
-1. Zmodyfikuj zapytanie o obrazek do pierwszej sekcji tak, aby za każdym razem był pobierany inny obrazek.
-
-2. Wykorzystaj technikę __preloadingu__ przy wyświetlaniu nowych elementów w galerii.
-
-## Pamiętaj o responsywności. Wybór czcionek, wygląd przycisków, wygląd galerii zależy od Ciebie - puść wodze fantazji!
+ 
+ 
 # nasa-api
+ 
+live preview https://nasa-api-olivvka.netlify.com/
