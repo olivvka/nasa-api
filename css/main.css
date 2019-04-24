@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400&subset=latin-ext');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+body {
+  font-family: 'Poiret One', cursive;
+  background: black;
+  display: flex;
+         flex-direction: column;
+  
+}
+.insetshadow{
+    
+     color: #202020;
+    background-color: #2d2d2d;
+    letter-spacing: 0.1em;
+    text-shadow: -1px -1px 1px #111, 2px 2px 1px #363636;
+  
+}
+
+.pic{
+    
+    margin-top: 30px;
+      display: flex;
+    align-content: center;
+    justify-content: center;
+    
+
+    width: 100%;
+  
+    
+
+}
+
+
+img {
+
+    align-content: center;
+     background-position: center;
+  background-repeat: no-repeat;
+background-size: cover;
+    
+    align-items: center;
+}
+h1 {
+      margin: 15px 0;
+    color: white ;
+    font-size: 4rem;
+    text-align: center;
+    text-transform: uppercase;
+ 
+}
+h2{
+
+  margin: 15px 0;
+    color: white ;
+    font-size: 4rem;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.quote{
+    font-family: 'Roboto',  sans-serif;
+    line-height: 25px;
+    padding: 20px 20px;
+font-size: 1rem;
+    color: lightgrey;
+}
+
+
+ #mars-gallery{
+     margin-top: 30px;
+      display: flex;
+   justify-content: center;
+     flex-wrap: wrap;
+
+  
+    border-color: 1px solid red;
+ 
+    width: 100%;
+    
+ }
+
+.mars-gallery--item{
+
+    height: 200px;
+    width: 200px;
+      background-position: center;
+  background-repeat: no-repeat;
+background-size: cover;
+    margin: 5px;
+}
+
+
+#loadMore{
+  border: 1px solid #202020;
+    color: gray;
+    background-color: #2d2d2d;
+  text-shadow: -1px -1px 1px #111, 2px 2px 1px #363636;
+
+  
+  cursor: pointer;
+  display: flex;
+  align-self: center;
+  margin: 20px;
+  padding: 1.2em 2.8em;
+  text-decoration: none;
+  text-align: center;
+  
+ 
+}
